@@ -1,10 +1,10 @@
 ---
-string_field: string
-boolean_field: true
-integer_field: 0
+string_field: another value
+boolean_field: false
+integer_field: 1
 object_field:
   str: string
   obj: {}
 
 ---
-This is some markdown!
+Some different markdown
