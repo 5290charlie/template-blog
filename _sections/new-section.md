@@ -3,7 +3,7 @@ location: awesome
 head:
   title: stupid
   subtitle: stuff
-  img_path: null
+  img_path: my image
 style:
   id: yay
   class: null
