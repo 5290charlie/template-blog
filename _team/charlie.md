@@ -1,7 +1,7 @@
 ---
 name: Charlie
 displayName: Charlie McClung
-avatar_path: null
+avatar_path: an avatar
 gravatar: null
 jobTitle: null
 bio: null
