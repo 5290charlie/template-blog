@@ -10,7 +10,7 @@ style:
   font_color: null
   media:
     img:
-      url_path: null
+      url_path: upload/image/png/1517936842054_url_path_travis-ci.png
       pattern: false
       parallax: false
       overlay: null
