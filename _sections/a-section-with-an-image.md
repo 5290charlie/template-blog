@@ -16,7 +16,8 @@ style:
       overlay: null
       blur: false
     video:
-      url_path: null
+      url_path: >-
+        upload/image/jpeg/1518043987540_url_path_391676_10151092969635272_1008387372_n.jpg
       type: null
       posterurl_path: null
   tint_color: 'rgba(0,0,0,0.0)'
