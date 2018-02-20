@@ -3,7 +3,7 @@ location: yup
 head:
   title: nope
   subtitle: null
-  img_path: upload/image/png/1517936688061_img_path_saysocket.png
+  img_path: upload/image/jpeg/1519100967459_img_path_largetest.jpg
 style:
   id: null
   class: null
