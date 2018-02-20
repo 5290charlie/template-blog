@@ -1,7 +1,7 @@
 ---
 name: Charlie
 displayName: Charlie McClung
-avatar_path: an avatar
+avatar_path: upload/image/jpeg/1519157725516_avatar_path_ubuntu.jpg
 gravatar: poopsnake
 jobTitle: null
 bio: null
