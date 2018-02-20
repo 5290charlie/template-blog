@@ -3,7 +3,7 @@ location: awesome
 head:
   title: stupid
   subtitle: stuff
-  img_path: my image
+  img_path: upload/image/png/1519098212045_img_path_speed-test-01-15-2018.png
 style:
   id: yay
   class: null
