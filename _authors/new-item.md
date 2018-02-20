@@ -1,7 +1,7 @@
 ---
 name: jane
 displayName: Jane Smith
-avatar_path: upload/image/png/1519098470515_avatar_path_bb-logo-512.png
+avatar_path: upload/image/jpeg/1519098734877_avatar_path_largetest.jpg
 gravatar: 1985af848d639efd74c6af48f242cfa8
 email: null
 web: null
