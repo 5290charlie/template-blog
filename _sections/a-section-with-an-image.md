@@ -3,7 +3,7 @@ location: yup
 head:
   title: nope
   subtitle: null
-  img_path: upload/image/jpeg/1519100967459_img_path_largetest.jpg
+  img_path: upload/image/jpeg/1519355371399_img_path_debian.jpg
 style:
   id: null
   class: null
