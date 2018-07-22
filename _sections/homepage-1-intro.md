@@ -1,7 +1,7 @@
 ---
 location: "homepage"
 head:
-  title: 'The Plot Thickens'
+  title: 'A Test Branch'
   subtitle: 'Welcome to your story, backed by the most robust static publishing platform ever created.'
   img_path: '/img/logo-badge.png'
 style:
