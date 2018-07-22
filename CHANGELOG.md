@@ -18,3 +18,5 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Replacing components with versions designed for use with the BowTie Collection Editor
 - Reworking sample content
+
+change!
