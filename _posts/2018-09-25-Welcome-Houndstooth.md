@@ -1,0 +1,30 @@
+---
+layout: post
+title: Welcome Houndstooth!
+subtitle: Houndstooth testing
+author: Charlie
+date: '2015-02-06 15:36:37'
+masthead:
+  img_path: false
+  pat_path: /img/backgrounds/bg2.jpg
+categories:
+  - Hello World
+  - BowTie
+elsewhere:
+  name: null
+  url: null
+comments: true
+share: true
+seo:
+  title: null
+  description: null
+  canonical: null
+  noindex: false
+social:
+  title: null
+  description: null
+  img_path: null
+
+---
+<p>Houndstooth + Razorsite testing ... woot!</p>
+
