@@ -7,4 +7,10 @@ object_field:
   obj: {}
 
 ---
-string
+<p>string</p>
+<p>&nbsp;</p>
+<p>body</p>
+<p>&nbsp;</p>
+<p>of</p>
+<p>&nbsp;</p>
+<p>stuff</p>
